@@ -3,3 +3,17 @@ languageCode: en-us
 title: Demo Hugo Site
 theme: PaperMod
 
+
+
+menu:
+  main:
+  - identifier: category
+    name: Category descr
+    title: Category
+    url: /category/
+    weight: -110
+  - identifier: tag
+    name: Tag descr
+    title: Tags
+    url: /tag/
+    weight: -120
