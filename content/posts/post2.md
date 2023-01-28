@@ -1,9 +1,9 @@
 ---
-title: "My Second Post"
+title: "Post 2"
 date: 2023-01-28T10:22:03+02:00
 draft: false
 ---
-# Title Second
+# Post 2
 ## Subtitle
 
 Content
